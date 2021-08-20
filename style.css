@@ -1,0 +1,83 @@
+/* Google fonts link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+/* Google fonts link */
+
+.panda-bg-search{
+    background-color:#F1F1F1;
+   
+}
+.panda-bg-search input{
+    background-color:#F1F1F1;
+   
+}
+.panda-bg-nav{
+    background-color: white;
+}
+
+::placeholder{
+    color: #CCCCCC;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-style: italic;   
+}
+.panda-search-icon{
+    color: #BABABA;
+
+}
+
+.panda-banner-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+
+.panda-btn-color{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    width: 168px;
+    height: 52px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+.panda-price-color{
+    color: #FF136F;
+}
+
+.panda-btn-arrow{
+    width: 24px;
+    height: 24px;
+    margin: 5px;
+}
+
+.panda-categories-bg-one{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+    
+
+}
+.panda-categories-bg-two{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);    ;
+    
+
+}
+.panda-categories-bg-three{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+    
+
+}
+.category-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600px;
+}
+
+.panda-bg-shoes{
+    background: #F4F4F4;
+
+}
+h5{
+    font-weight: 500px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.panda-subscribe-bg{
+    background-color: #FFF2F1;
+}
